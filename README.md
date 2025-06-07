@@ -1,2 +1,2 @@
 # VanLife
-Frontend Developer Certificate Project using React, React Router and Firebase
+Frontend developer certification project using React, React Router and Firebase.
